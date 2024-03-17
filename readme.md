@@ -138,31 +138,21 @@ a partir da interfáce de linha de comando.
 Não há servidores, drivers ou quaisquer outras dependências para instalar ou
 configurar. Você pode escrever seu primeiro teste passando em 60 segundos.
 
-[Vídeo de exemplo](https://docs.cypress.io/img/snippets/installing-cli.mp4)
 
 ## Escrevendo os testes
 
 Testes escritos com o Cypress são fáceis de ler e entender. 
-Nossa API vem totalmente pronta, usando ferramentas com as quais 
-você já está familiarizado.
 
-[Vídeo de exemplo](https://docs.cypress.io/img/snippets/installing-cli.mp4)
 
 ## Executando os testes
 
 O Cypress é executado tão rápido quanto seu navegador pode renderizar conteúdo.
-Você pode assistir a testes executarem em tempo real enquanto desenvolve 
-suas aplicações. TDD para a vitória!
 
-[Vídeo de exemplo](https://docs.cypress.io/img/snippets/running-tests.mp4)
 
 ## Depurando os testes
 
 Mensagens de erro legíveis ajudam você a depurar rapidamente. 
-Você também tem acesso a todas as ferramentas de desenvolvedor 
-que conhece e adora.
 
-[Vídeo de exemplo](https://docs.cypress.io/img/snippets/debugging.mp4)
 
 ## Cypress Real World App
 
